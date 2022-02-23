@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+    font-family: 'Redressed', cursive;
+}
+
+.hding {
+    width: 80%;
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+}
+
+.hding:hover {
+    color: red !important;
+}
+
+.name_of_objects {
+    color: limegreen;
+    font-size: 20px;
+}
+
+#camera, #result {
+    border: 1px solid black;
+    width: 300px;
+    height: 250px;
+}
